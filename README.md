@@ -2,5 +2,5 @@
 #Python
 #Opencv
 #Mediapipe
-#Numpy
+#Numpy\n
 #Download all necessary libraries before using the code
